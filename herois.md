@@ -1,4 +1,4 @@
-# Heroes
+# Herois
 
 * Superman
 * Batman
