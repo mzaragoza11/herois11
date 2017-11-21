@@ -4,5 +4,6 @@
 * Batman
 * Daredevil
 * Mujer Maravilla
-* Jessica Jones
+* Jessica Jones es de DC
 * Marc Zaragoza
+* Spiderman
