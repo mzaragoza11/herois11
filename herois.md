@@ -2,7 +2,7 @@
 
 * Superman
 * Batman
-* Daredevil
+* Daredevilo
 * Mujer Maravilla
-* Jessica Jones
+* Jessica Jones es de Marvel
 * Marc Zaragoza
